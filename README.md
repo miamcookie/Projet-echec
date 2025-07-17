@@ -27,4 +27,6 @@ Plateau de jeu
 - Lors du lancement, l’option Pixel Art ne fonctionne pas.
 - Les cases contenant des pièces sont plus grandes que les cases vides.
 
+## 👥 Créateurs
 
+Ce projet a été réalisé par Mick Chen et Diego Mangado.
